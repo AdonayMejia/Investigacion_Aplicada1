@@ -18,6 +18,17 @@ LINK MOCKUPS
 https://www.figma.com/file/Y69HCwPinIKvDLfYwFT2Nn/Untitled?node-id=0%3A1
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EXPLICACION DE PROYECTOS
+
+KOTLIN
+
+https://drive.google.com/file/d/10RlxwW8w6nnAOVThgHtiHi8IhvLAQHbo/view?usp=sharing
+
+FLUTTER
+
+https://drive.google.com/file/d/1QtVifQWuo9V20ALqcv4awITUyXjh6p-q/view?usp=sharing
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LICENCIA CREATIVE COMMONS 📄
 
 Attribution-ShareAlike 3.0 IGO
