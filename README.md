@@ -1,7 +1,8 @@
 # Investigacion_Aplicada1
 
-INTEGRANTES DE EQUIPO
+INTEGRANTES DE EQUIPO ✒️
 -Kevin Adonay Martinez Ceron-MC200314
+
 -Stanley Adonay Mejia Amaya-MA212116
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,7 +17,7 @@ LINK MOCKUPS
 https://www.figma.com/file/Y69HCwPinIKvDLfYwFT2Nn/Untitled?node-id=0%3A1
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-LICENCIA CREATIVE COMMONS
+LICENCIA CREATIVE COMMONS 📄
 
 Attribution-ShareAlike 3.0 IGO
 
