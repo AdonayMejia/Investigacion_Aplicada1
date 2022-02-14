@@ -1,6 +1,7 @@
 # Investigacion_Aplicada1
 
 INTEGRANTES DE EQUIPO ✒️
+
 -Kevin Adonay Martinez Ceron-MC200314
 
 -Stanley Adonay Mejia Amaya-MA212116
